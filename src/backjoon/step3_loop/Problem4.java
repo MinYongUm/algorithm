@@ -1,4 +1,4 @@
-package backjoon.lever3;
+package backjoon.step3_loop;
 
 import java.io.BufferedReader;
 import java.io.IOException;

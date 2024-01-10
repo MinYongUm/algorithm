@@ -1,4 +1,4 @@
-package backjoon.level1;
+package backjoon.step1_input_output;
 
 import java.io.BufferedReader;
 import java.io.IOException;
